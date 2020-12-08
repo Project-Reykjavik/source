@@ -41,7 +41,7 @@ install:
 
   # 5) setup soft links for database
   - cd gerby-website
-  - ln -s gerby/tools/hello-world.sqlite hello-world.sqlite
+  - ln -s gerby/tools/reykjavik.sqlite reykjavik.sqlite
   - ln -s gerby/tools/comments.sqlite    comments.sqlite
   - cd ..
 

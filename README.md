@@ -1,3 +1,5 @@
-This repository documents a minimal working example for using Gerby. The main steps in doing so are documented in the file `.travis.yml`.
+This is Project Reykjavik, a dialectic-styled mathematics-popularisation-themed quasi-novel in Chinese and English.
 
-For more information, see [Gerby project](https://gerby-project.github.io).
+The main (mathematical) topic of this project is modern topology and geometry, similar to The Stacks Project and Kerodon.
+
+If it is your intention to contribute, please make sure you're in favor of the ideas listed and contact [me](https://t.me/cute_girl_sayako) on Telegram.

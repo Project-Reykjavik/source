@@ -1,6 +1,6 @@
 # configuration for the website
 COMMENTS = "comments.sqlite"
-DATABASE = "hello-world.sqlite"
+DATABASE = "reykjavik.sqlite"
 UNIT = "section"
 DEPTH = 0
 
@@ -8,5 +8,5 @@ DEPTH = 0
 PATH = "document"
 PAUX = "document.paux"
 TAGS = "tags"
-PDF = ""
+PDF = "document.pdf"
 
